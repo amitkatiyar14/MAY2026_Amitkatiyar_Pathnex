@@ -1,0 +1,10 @@
+today task
+2 Hours - Online session in the Morning 
+1 Hours - AWS
+2 Hours - VM creation in vcentre and other setup
+1 Hours - for git setup
+
+Tomorrow task
+will run some command of Linux 
+EC2 connect
+GIT command 
